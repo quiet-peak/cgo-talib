@@ -14,7 +14,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/blazer-org/go-talib"
+	"github.com/quiet-peak/go-talib"
 )
 
 var (

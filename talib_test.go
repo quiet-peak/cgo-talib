@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blazer-org/go-talib"
+	"github.com/quiet-peak/go-talib"
 )
 
 func TestInit(t *testing.T) {
