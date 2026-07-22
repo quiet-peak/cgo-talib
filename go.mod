@@ -1,4 +1,4 @@
-module github.com/blazer-org/cgo-talib
+module github.com/quiet-peak/cgo-talib
 
 go 1.25.1
 
